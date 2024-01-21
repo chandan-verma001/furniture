@@ -1,0 +1,56 @@
+[
+    {
+        "product-img":"product1.png",
+        "product-heading":"URBAN LUX HIGH CHAIR",
+        "product-star":"Star.png",
+        "product-price":"$2668.15"
+    },
+    {
+        "product-img":"product2.png",
+        "product-heading":"MORDERN BLACK HANGING LIGHT",
+        "product-star":"Star.png",
+        "product-price":"$1595.6"
+    },
+    {
+        "product-img":"product3.png",
+        "product-heading":"METRO FUSION TABLE",
+        "product-star":"Star.png",
+        "product-price":"$2238.30"
+    },
+    {
+        "product-img":"product4.png",
+        "product-heading":"LUMIN DESK LAMP",
+        "product-star":"Star.png",
+        "product-price":"$1477.80"
+    },
+    {
+        "product-img":"product5.png",
+        "product-heading":"TIMELESS EDGE HANGING CLOCK",
+        "product-star":"Star.png",
+        "product-price":"$1071.6"
+    },
+    {
+        "product-img":"product6.png",
+        "product-heading":"ZENITH PENDANT LIGHT",
+        "product-star":"Star.png",
+        "product-price":"$2069.59"
+    },
+    {
+        "product-img":"product7.png",
+        "product-heading":"MORDERN BLACK HANGING LIGHT",
+        "product-star":"Star.png",
+        "product-price":"$2352.41"
+    },
+    {
+        "product-img":"product8.png",
+        "product-heading":"MORDERN BLACK HANGING LIGHT",
+        "product-star":"Star.png",
+        "product-price":"$2352.41"
+    },
+    {
+        "product-img":"product9.png",
+        "product-heading":"MORDERN BLACK HANGING LIGHT",
+        "product-star":"Star.png",
+        "product-price":"$2352.41"
+    }
+]
